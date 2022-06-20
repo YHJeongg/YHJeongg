@@ -3,6 +3,7 @@
 <div align="center">
 안녕하세요.<br />
 제 이름은 정윤현이고 Swift 공부하고 있어요!<br />
+<a href="wjd6408@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <br />
 <h2>Tech Stack</h2>
 Techs that I've used at least once
